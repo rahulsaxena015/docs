@@ -1,7 +1,7 @@
 % Tabular Data Converter
 % Greg Schueler
 
-Parses Tabular text (csv) into a a Java object.
+Parses Tabular text (csv) into a Java object.
 
 The "HTML Table View Converter" plugin can render this as a HTML Table.
 
